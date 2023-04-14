@@ -1413,7 +1413,7 @@ font-size: 180%;
 
 .info_for_chainicks li{
     font-size: 2vh;
-    width: 90%;
+    width: 100%;
 }
 
 
@@ -1436,7 +1436,7 @@ font-size: 180%;
         height: 15vh;
         margin-left: 10%;
         margin-bottom: 5%;
-        width: 100px;
+        width: 120px;
     }
     
     .circle1>p{
@@ -1479,13 +1479,13 @@ font-size: 180%;
         height: 15vh;
         margin-left: 10%;
         margin-bottom: 5%;
-        width: 100px;
+        width: 120px;
     }
     
     .circle3{
         height: 15vh;
         margin-left: 0%;
-        width: 100px;
+        width: 120px;
     }
     
     /* circles end */
@@ -1530,7 +1530,7 @@ font-size: 180%;
         margin-top: 0;
     }
     .card>img{
-        width: 100px;
+        width: 120px;
         height: 15vh;
     }
     /* card end */
@@ -1563,7 +1563,7 @@ font-size: 180%;
     /* feedback start */
 
     .feedback{
-height: 60vh;
+    height: 60vh;
     }
 
     .feedback>h2{
